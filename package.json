@@ -1,0 +1,12 @@
+{
+  "name": "serverless-redis-example",
+  "version": "0.0.1",
+  "description": "A Serverless Redis Example Project",
+  "author": "Egor Kislitsyn <egor@kislitsyn.com>",
+  "license": "MIT",
+  "private": false,
+  "repository": "minibikini/serverless-redis-example",
+  "dependencies": {
+    "redis": "^2.6.0-2"
+  }
+}
